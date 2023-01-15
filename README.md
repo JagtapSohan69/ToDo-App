@@ -12,7 +12,7 @@
 ![ALT](/Screenshots/Register.png)
 
 ### Landing Page
-![ALT](/Screenshots/Landing Page.png)
+![ALT](/Screenshots/Landing page.png)
 
 ### My Profile 
 ![ALT](/Screenshots/Profile.png)
@@ -21,7 +21,7 @@
 ![ALT](/Screenshots/All notes.png)
 
 ### Create Note
-![ALT](/Screenshots/Createnote.png)
+![ALT](/Screenshots/Create note.png)
 
 ### Edit Note
-![ALT](/Screenshots/Editnote.png)
+![ALT](/Screenshots/Edit note.png)
