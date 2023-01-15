@@ -3,25 +3,25 @@
 •	User can perform all the CRUD operations.
 •	Used Cloudinary API to store the images of users from user profile.
 
-##Screenshots
+## Screenshots
 
-###Login 
+### Login 
 ![ALT](/Screenshots/Login.png)
 
-###Register 
+### Register 
 ![ALT](/Screenshots/Register.png)
 
-###Landing Page
+### Landing Page
 ![ALT](/Screenshots/Landing Page.png)
 
-###My Profile 
+### My Profile 
 ![ALT](/Screenshots/Profile.png)
 
-###Notes 
+### Notes 
 ![ALT](/Screenshots/All notes.png)
 
-###Create Note
-![ALT](/Screenshots/Create note.png)
+### Create Note
+![ALT](/Screenshots/Createnote.png)
 
-###Edit Note
-![ALT](/Screenshots/Edit note.png)
+### Edit Note
+![ALT](/Screenshots/Editnote.png)
