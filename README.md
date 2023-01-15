@@ -12,16 +12,16 @@
 ![ALT](/Screenshots/Register.png)
 
 ### Landing Page
-![ALT](/Screenshots/Landing page.png)
+![ALT](/Screenshots/LandingPage.png)
 
 ### My Profile 
 ![ALT](/Screenshots/Profile.png)
 
 ### Notes 
-![ALT](/Screenshots/All notes.png)
+![ALT](/Screenshots/AllNotes.png)
 
 ### Create Note
-![ALT](/Screenshots/Create note.png)
+![ALT](/Screenshots/CreateNote.png)
 
 ### Edit Note
-![ALT](/Screenshots/Edit note.png)
+![ALT](/Screenshots/EditNote.png)
