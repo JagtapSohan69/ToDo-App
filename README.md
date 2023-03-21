@@ -1,6 +1,8 @@
 # ToDo-App-Using-MERN
 •	Developed a ToDO App using MERN which enables users to create the account and store their notes according to the date and category wise.
+
 •	User can perform all the CRUD operations.
+
 •	Used Cloudinary API to store the images of users from user profile.
 
 ## Screenshots
